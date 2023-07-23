@@ -4,7 +4,7 @@
 export UUID=37ac8f45-2728-4188-8e7d-a9cf582a9b61
 
 #请修改为自己设置的伪装站，不要带https://
-export ProxySite=github.com/wulabing/3DCEList/archive/master.zip
+export ProxySite=netsrepublic.com
 
 #端口，如无特殊需求请勿更改,如果要改请一并修改dockerfile中的端口
 export Port=8080
